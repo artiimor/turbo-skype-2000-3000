@@ -1,0 +1,1 @@
+{"nickname": "nega2", "ip": "192.168.1.99", "puerto": "12346", "protocolos": "v0", "puerto_udp_escucha": 5200}
